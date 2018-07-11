@@ -6,7 +6,7 @@ mv "b.jpg" "a.jpg"
 while true
   imagesnap "b.jpg";
   set x (java ImgDiffPercent);
-  set motionDetected (echo $x'>'3 | bc -l)
+  set motionDetected (echo $x'>'3.0 | bc -l)
   if [ $motionDetected -eq 1 ]
     echo 'motion detected!'
     #imessage -a b.jpg -c "your phone number here"
