@@ -19,7 +19,7 @@ Note: The script runs using the fish shell.
 # Optional: Your computer can imessage you the pictures of when it detects motion.
 to do this:
 1. ```brew install imessage-ruby```
-2. Uncomment line 11 and add your phone number
+2. Uncomment line 12 and add your phone number
 
 # Notes:
 
