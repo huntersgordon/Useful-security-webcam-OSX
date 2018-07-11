@@ -4,7 +4,7 @@ Security webcam harnesses a simple calculation of the difference between images 
 
 ![alt text](https://calhat.com/security-camera.png "The security camera detects a man fiddling on a computer")
 
-Notes: the camera runs using the fish shell. 
+Note: The script runs using the fish shell. 
 
 1. Install fish shell
 
